@@ -10,6 +10,9 @@ Mi repositorio personal: el lugar donde guardo y organizo mis proyectos, ideas y
 
 ```
 mi_despacho/
+├── proyectos/    # Mis proyectos, cada uno en su carpeta
+├── notas/        # Ideas y apuntes
+├── plantillas/   # Archivos base reutilizables
 └── README.md
 ```
 
