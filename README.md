@@ -1,10 +1,10 @@
 # Mi Despacho
 
-Repositorio del proyecto **Mi Despacho**.
+Mi repositorio personal: el lugar donde guardo y organizo mis proyectos, ideas y archivos de trabajo.
 
 ## Descripción
 
-Este repositorio está en sus primeras etapas. Aquí se irá construyendo el proyecto y su documentación.
+**Mi Despacho** es mi espacio de trabajo en GitHub. Aquí voy a ir sumando proyectos, notas, plantillas y todo lo que quiera tener a mano y respaldado con historial de cambios.
 
 ## Estructura
 
